@@ -25,5 +25,6 @@ python qwen_demo.py
 Open your browser and go to http://localhost:7860 to access the interface.
 
 
-Model: Qwen/Qwen2.5-VL-3B-Instruct by Alibaba Cloud
+Model: Qwen/Qwen2.5-VL-3B-Instruct by Alibaba Cloud,https://www.modelscope.cn/models/Qwen/Qwen2.5-VL-3B-Instruct
 Libraries: Hugging Face Transformers , Gradio
+
