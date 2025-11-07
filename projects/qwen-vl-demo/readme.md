@@ -15,3 +15,15 @@ Leverages AI-assisted development (e.g., ChatGPT, Qwen) for efficient code gener
 
 Requirements
 To run this project, you need Python 3.8 or higher. Install the required packages using pip:
+
+How to Run:
+Clone this repository or navigate to the project directory.
+Ensure all requirements from requirements.txt are installed.
+Run the script:
+python qwen_demo.py
+
+Open your browser and go to http://localhost:7860 to access the interface.
+
+
+Model: Qwen/Qwen2.5-VL-3B-Instruct by Alibaba Cloud
+Libraries: Hugging Face Transformers , Gradio
