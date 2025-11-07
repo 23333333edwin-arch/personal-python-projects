@@ -1,0 +1,13 @@
+# Core libraries for Qwen-VL model
+torch>=2.0.0
+transformers>=4.36.0
+accelerate>=0.24.0
+tokenizers>=0.14.0
+sentencepiece>=0.1.99
+# Image processing
+Pillow>=9.0.0
+numpy>=1.24.0
+# Gradio interface
+gradio>=4.0.0
+# Optional: for better performance on CPU
+optimum>=1.14.0 # (if using CPU optimization)

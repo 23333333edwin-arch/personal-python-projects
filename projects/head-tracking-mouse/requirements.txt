@@ -1,0 +1,6 @@
+# Core libraries for computer vision and GUI control
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyautogui>=0.9.53
+# Optional: for better performance or specific features (if needed)
+# Pillow>=9.0.0 # (only if using PIL for image processing)
