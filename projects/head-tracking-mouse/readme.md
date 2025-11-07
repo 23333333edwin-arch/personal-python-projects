@@ -17,3 +17,20 @@ Leverages AI-assisted development (e.g., ChatGPT, Qwen) for efficient code gener
 
 Requirements
 To run this project, you need Python 3.8 or higher.
+
+How to Run
+Clone this repository or navigate to the project directory.
+Ensure all requirements from requirements.txt are installed.
+Run the script:
+python cv2_fullmouse_control.py
+
+Allow camera access if prompted. The system will start tracking your head movement.
+Press ESC to quit the application.
+
+Notes:
+Requires a working webcam.
+Performance may vary depending on your computer's CPU and camera capabilities.
+Ensure adequate lighting for optimal face detection.
+
+Acknowledgements
+Libraries: OpenCV , PyAutoGUI
